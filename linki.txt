@@ -1,0 +1,3 @@
+http://mdshannan1.blogspot.com/2012/05/riak-vs-mysql-performance-tests-1.html  --fajny test
+https://prezi.com/ibh4sdzlmtms/riak/ --niez³a prezentacja
+https://github.com/basho/riak -- jak u¿ywaæ
